@@ -1,0 +1,43 @@
+
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    background-color: black;
+    margin: 0px;
+    padding: 8px;
+    color: white;
+   
+}
+h1 > span{
+    color: cyan;
+    font-style:normal;
+}
+h2{
+    background-color:rebeccapurple;
+    margin: 0px;
+    padding: 5px;
+    color: white;
+    text-align:center;
+    
+}
+h2 > span{
+    font-style:oblique;
+    font-weight:lighter;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h3{
+    background-color:lightskyblue;
+    margin: 0px;
+    padding: 5px;
+    color: white;
+    text-align:right;
+   
+}
+
+.myDiv {
+    border: 4px solid white;   
+}
+
+/* Code by @Kenniche */
